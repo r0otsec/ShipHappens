@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="2490" height="780" alt="shiphappens-banner" src="https://github.com/user-attachments/assets/dbd708ca-88dd-4051-8002-8cb9862c7eaa" />
+<img alt="shiphappens-banner" src="https://raw.githubusercontent.com/r0otsec/ShipHappens/refs/heads/main/assets/ship-happens-banner.png" />
 
 ### A realistic, vulnerable CI/CD pipeline deployment lab lab for offensive and defensive training against CI/CD pipelines, DevOps and supply chains.
 
